@@ -1,0 +1,9 @@
+
+###my try
+POST http://localhost:3000/phrase
+Content-Type: application/json
+
+{
+  "user_phrase": "I pity the fool!"
+}
+
